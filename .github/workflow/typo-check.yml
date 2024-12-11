@@ -1,4 +1,4 @@
-name: Typo Check
+name: Typo Check @Dzhamil1984
 
 on: [pull_request]
 
